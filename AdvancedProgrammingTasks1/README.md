@@ -1,1 +1,1 @@
-This is directory with all the tasks from first mid term
+This is directory with all the tasks for first mid term
